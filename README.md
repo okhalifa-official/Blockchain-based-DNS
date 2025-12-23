@@ -1,5 +1,6 @@
 # Blockchain-based DNS
-![License](https://img.shields.io/github/license/okhalifa-official/blockchain-based-dns)
+
+![License](https://img.shields.io/github/license/okhalifa-official/blockchain-based-dns?style=flat-square)
 ![Solidity](https://img.shields.io/badge/Solidity-^0.8.0-blue)
 ![Network](https://img.shields.io/badge/Testnet-Sepolia-purple)
 ![Status](https://img.shields.io/badge/status-active%20development-orange)
