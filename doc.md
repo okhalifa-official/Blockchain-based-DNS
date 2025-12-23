@@ -3,6 +3,7 @@
 **Author:** Omar Khalifa
 
 [Background](./Documentation/background.md)
+<br>
 [Existing Solutions](./Documentation/related_work.md)
 
 <details>
