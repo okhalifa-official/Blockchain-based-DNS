@@ -1,0 +1,5 @@
+Node.js (v16 or higher)
+npm or yarn
+MetaMask or similar Ethereum wallet
+Remix IDE account (for smart contract deployment)
+Sepolia Testnet ETH (for testing)
